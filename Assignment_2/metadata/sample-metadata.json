@@ -1,0 +1,14 @@
+{
+  "name": "Assignment2 Example NFT",
+  "symbol": "AS2",
+  "description": "Example NFT metadata for Assignment 2",
+  "seller_fee_basis_points": 500,
+  "image": "https://placekitten.com/400/400",
+  "attributes": [
+    { "trait_type": "Assignment", "value": "2" }
+  ],
+  "properties": {
+    "files": [{ "uri": "https://placekitten.com/400/400", "type": "image/png" }],
+    "category": "image"
+  }
+}

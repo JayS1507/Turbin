@@ -1,0 +1,15 @@
+{
+  "name": "assignment2-spl-nft",
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": {
+    "mint-nft": "ts-node --esm scripts/mint_nft.ts"
+  },
+  "dependencies": {
+    "@metaplex-foundation/js": "^0.20.1",
+    "@solana/web3.js": "^1.79.0",
+    "node-fetch": "^2.6.7",
+    "ts-node": "^10.9.1",
+    "typescript": "^5.1.6"
+  }
+}
